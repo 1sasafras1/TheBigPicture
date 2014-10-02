@@ -1,6 +1,5 @@
-
 body {
-font-family: 'Montserrat Alternates', sans-serif;
+font-family: sans-serif;
 background-image: url('applebg.jpg');
 color: white;
 }
@@ -127,4 +126,14 @@ font-weight: bold;
 }
 .table tr:first-child td:last-child{
 	border-width:0px 0px 1px 1px;
+}
+/* end table */
+ul{
+list-style-type: circle;
+}
+.mainp{
+font-size: 20;
+}
+.right{
+text-align: right;
 }
