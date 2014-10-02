@@ -1,0 +1,33 @@
+body {
+font-family: 'Montserrat Alternates', sans-serif;
+background-image: url('applebg.jpg');
+color: white;
+}
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	position: realitive;
+}
+li.menu{
+float: left;
+}
+a.menu {
+    display: block;
+    width: 120px;
+	font-weight: bold;
+	color: black;
+	background-color: #919ade;
+	text-align: center;
+	padding: 4px
+	}
+a:link{
+color: yellow;
+}
+a:visited{
+color: red;
+}
+a:hover{
+font-weight: bold;
+}
